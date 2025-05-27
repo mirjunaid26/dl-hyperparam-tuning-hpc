@@ -15,7 +15,7 @@ The goal of this project is to:
 ```
 dl-hyperparam-tuning-hpc/
 ├── train.py             # Main training script
-├── job_train.slurm      # SLURM job submission script
+├── job.slurm      # SLURM job submission script
 ├── submit_all.sh        # Bash script to launch multiple jobs with different hyperparameters
 ├── logs/                # Output logs (.out and .err) for each job
 ├── results/             # Folder to store any processed results or summaries
