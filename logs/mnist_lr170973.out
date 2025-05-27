@@ -1,0 +1,8 @@
+Starting training: LR=0.005, BS=64, Epochs=5
+Epoch 1/5, Loss: 112.9680, Accuracy: 96.12%
+Epoch 2/5, Loss: 42.9358, Accuracy: 98.65%
+Epoch 3/5, Loss: 33.7966, Accuracy: 98.86%
+Epoch 4/5, Loss: 25.9929, Accuracy: 99.11%
+Epoch 5/5, Loss: 21.9653, Accuracy: 99.29%
+Test Accuracy: 98.94%
+Training complete.
